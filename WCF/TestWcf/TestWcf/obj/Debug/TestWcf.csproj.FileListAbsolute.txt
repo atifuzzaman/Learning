@@ -1,0 +1,14 @@
+D:\Projects\SSRS\TestWcf\TestWcf\bin\TestWcf.dll.config
+D:\Projects\SSRS\TestWcf\TestWcf\bin\TestWcf.dll
+D:\Projects\SSRS\TestWcf\TestWcf\bin\TestWcf.pdb
+D:\Projects\SSRS\TestWcf\TestWcf\obj\Debug\TestWcf.csproj.AssemblyReference.cache
+D:\Projects\SSRS\TestWcf\TestWcf\obj\Debug\TestWcf.csproj.CoreCompileInputs.cache
+D:\Projects\SSRS\TestWcf\TestWcf\obj\Debug\TestWcf.dll
+D:\Projects\SSRS\TestWcf\TestWcf\obj\Debug\TestWcf.pdb
+D:\Projects\4. Learning\WCF\TestWcf\TestWcf\bin\TestWcf.dll.config
+D:\Projects\4. Learning\WCF\TestWcf\TestWcf\bin\TestWcf.dll
+D:\Projects\4. Learning\WCF\TestWcf\TestWcf\bin\TestWcf.pdb
+D:\Projects\4. Learning\WCF\TestWcf\TestWcf\obj\Debug\TestWcf.csproj.AssemblyReference.cache
+D:\Projects\4. Learning\WCF\TestWcf\TestWcf\obj\Debug\TestWcf.csproj.CoreCompileInputs.cache
+D:\Projects\4. Learning\WCF\TestWcf\TestWcf\obj\Debug\TestWcf.dll
+D:\Projects\4. Learning\WCF\TestWcf\TestWcf\obj\Debug\TestWcf.pdb
