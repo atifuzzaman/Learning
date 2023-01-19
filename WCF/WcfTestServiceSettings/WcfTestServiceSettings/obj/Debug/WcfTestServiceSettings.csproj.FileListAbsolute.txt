@@ -1,0 +1,7 @@
+D:\Projects\4-Learning\WCF\WcfTestServiceSettings\WcfTestServiceSettings\obj\Debug\WcfTestServiceSettings.csproj.AssemblyReference.cache
+D:\Projects\4-Learning\WCF\WcfTestServiceSettings\WcfTestServiceSettings\obj\Debug\WcfTestServiceSettings.csproj.CoreCompileInputs.cache
+D:\Projects\4-Learning\WCF\WcfTestServiceSettings\WcfTestServiceSettings\bin\WcfTestServiceSettings.dll.config
+D:\Projects\4-Learning\WCF\WcfTestServiceSettings\WcfTestServiceSettings\bin\WcfTestServiceSettings.dll
+D:\Projects\4-Learning\WCF\WcfTestServiceSettings\WcfTestServiceSettings\bin\WcfTestServiceSettings.pdb
+D:\Projects\4-Learning\WCF\WcfTestServiceSettings\WcfTestServiceSettings\obj\Debug\WcfTestServiceSettings.dll
+D:\Projects\4-Learning\WCF\WcfTestServiceSettings\WcfTestServiceSettings\obj\Debug\WcfTestServiceSettings.pdb
