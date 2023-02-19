@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ipiu/WXGY4bzwYPUlRh3lBt/D5Kx/dDqeG56fflBqda09hhK5I1luFBdg/NTInPDlV+QNG5H4+W7C/q4ocAaNQ==",
+  "dgSpecHash": "AusceF5WwH9ULne0p2woCw7/7/NZncvjwnXeN2usHKWrDoKjkEMCoP0OPpr/+oYUUFVVKNCSMJUHHNrSgXc3/w==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\SampleAspCoreApplication.csproj",
+  "projectFilePath": "D:\\Projects\\4-Learning\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\SampleAspCoreApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Atif\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Atif\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

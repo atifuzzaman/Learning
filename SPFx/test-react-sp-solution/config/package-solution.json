@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "test-react-sp-solution-client-side-solution",
+    "id": "a32a5e73-cc13-4e79-a804-d02ce3eeb9e8",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "test-react-sp-solution description"
+      },
+      "longDescription": {
+        "default": "test-react-sp-solution description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "test-react-sp-solution Feature",
+        "description": "The feature that activates elements of the test-react-sp-solution solution.",
+        "id": "3ca4fea9-40b5-4646-8afa-91e24e77ee4e",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/test-react-sp-solution.sppkg"
+  }
+}

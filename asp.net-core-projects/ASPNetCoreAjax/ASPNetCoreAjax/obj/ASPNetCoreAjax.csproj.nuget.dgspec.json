@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\ASPNetCoreAjax.csproj": {}
+    "D:\\Projects\\4-Learning\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\ASPNetCoreAjax.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\ASPNetCoreAjax.csproj": {
+    "D:\\Projects\\4-Learning\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\ASPNetCoreAjax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\ASPNetCoreAjax.csproj",
+        "projectUniqueName": "D:\\Projects\\4-Learning\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\ASPNetCoreAjax.csproj",
         "projectName": "ASPNetCoreAjax",
-        "projectPath": "D:\\Projects\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\ASPNetCoreAjax.csproj",
+        "projectPath": "D:\\Projects\\4-Learning\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\ASPNetCoreAjax.csproj",
         "packagesPath": "C:\\Users\\Atif\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\obj\\",
+        "outputPath": "D:\\Projects\\4-Learning\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

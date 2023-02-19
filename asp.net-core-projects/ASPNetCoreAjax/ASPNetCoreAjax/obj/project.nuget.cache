@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J1ScRCD9+ieIRRvyYsboNRAKFjR7gfSgXg7m0yY8gALCETHZ0HU9TfzVvMVOLhUg2hSg2pQSMDSeNBcl2ma/nw==",
+  "dgSpecHash": "yD9ys06QVHkGlPUE9ScRrcsDhFNi1kdIauCMrWqu6MgD0qAL7W8Q9TdA7l2U6l9pxkoKhDpRqaY/X8Ef33lFdw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\ASPNetCoreAjax.csproj",
+  "projectFilePath": "D:\\Projects\\4-Learning\\asp.net-core-projects\\ASPNetCoreAjax\\ASPNetCoreAjax\\ASPNetCoreAjax.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Atif\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Atif\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

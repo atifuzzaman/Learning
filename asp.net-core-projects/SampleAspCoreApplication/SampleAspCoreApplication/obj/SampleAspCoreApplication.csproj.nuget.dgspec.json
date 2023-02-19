@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\SampleAspCoreApplication.csproj": {}
+    "D:\\Projects\\4-Learning\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\SampleAspCoreApplication.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\SampleAspCoreApplication.csproj": {
+    "D:\\Projects\\4-Learning\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\SampleAspCoreApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\SampleAspCoreApplication.csproj",
+        "projectUniqueName": "D:\\Projects\\4-Learning\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\SampleAspCoreApplication.csproj",
         "projectName": "SampleAspCoreApplication",
-        "projectPath": "D:\\Projects\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\SampleAspCoreApplication.csproj",
+        "projectPath": "D:\\Projects\\4-Learning\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\SampleAspCoreApplication.csproj",
         "packagesPath": "C:\\Users\\Atif\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\obj\\",
+        "outputPath": "D:\\Projects\\4-Learning\\asp.net-core-projects\\SampleAspCoreApplication\\SampleAspCoreApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
