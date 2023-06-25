@@ -1,0 +1,2 @@
+SumOfNumbers.g.xaml
+XamlStaticHelperNamespace._XamlStaticHelper

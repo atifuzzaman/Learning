@@ -1,0 +1,4 @@
+obj\Debug\_StateMachineSum.g.cs
+obj\Debug\Sum.g.cs
+obj\Debug\StateMachineSum_Sum_BeforeInitializeComponentHelper.cs
+D:\Projects\Personal\Workflows\StateMachineSum\StateMachineSum\obj\Debug\StateMachineSum_Sum_CompiledExpressionRoot.cs

@@ -1,0 +1,2 @@
+obj\Debug\SumOfNumbers.g.xaml
+obj\Debug\StateMachineSumSample_SumOfNumbers_BeforeInitializeComponentHelper.txt

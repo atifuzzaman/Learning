@@ -1,0 +1,19 @@
+In React JS
+
+useState:
+"useState" is used to store information/data from the server. It automatically refreshes the page when
+the data is changed. It is also used to make a component dynamic.
+
+ex: account number and number of signatures associated with it, can be stored in useState. Similarly 
+when a new signature is added it will be added in setState function.
+
+
+
+createContext/useContext:
+"createContext" is used to pass information in between react components like "information is passed 
+between parent and child or neibouring components". 
+
+ex: createContext is used with either "constant value" or "useState" to store information. 
+"useContext" keyword is used to access the information in children components where the 
+information should displayed.
+
